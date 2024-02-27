@@ -1,0 +1,13 @@
+insert into tbl_cat_telefono values(null,"5554715984",1);
+insert into tbl_TipoResidente values(null,"PRIMARIO",1);
+insert into tbl_cat_FotoPerfil values(null,"FOTO",1);
+insert into tbl_cat_Email values(null,"25airh01@gmail.com",1);
+insert into tbl_cat_Domicilio values(null,"8","1-2","2",1);
+insert into tbl_cat_Automovil values(null,"DUSTER","2020","NYR6813",1);
+insert into tbl_Residente values(null,"ANGEL ISRAEL","RODRIGUEZ","HERNANDEZ","2002-01-25",3,3,3,3,3,3);
+
+INSERT INTO tbl_Usuario VALUES(NULL,"JASON","1234",1,1,1,"2023-08-31");
+
+
+
+INSERT INTO tbl_cat_TipoUsuario VALUES(NULL,"ADMINISTRADOR",1);

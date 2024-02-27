@@ -1,0 +1,233 @@
+
+#particles-js{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+/*Slide Style Log In*/
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: #15203E;
+    color: snow;
+    font-size: 18px;
+    font-family: 'Jost', sans-serif;
+    font-weight: 300;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+
+.main{
+    width: 350px;
+    height: 500px;
+    
+    background: #1E2E59;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 5px 20px 50px #000;
+}
+
+#chk{
+    display: none;
+}
+
+.client{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+label{
+    color: #fff;
+    font-size: 2.3rem;
+    justify-content: center;
+    display: flex;
+    margin: 60px;
+    font-weight: bold;
+    transition: .5s ease-in-out;
+}
+
+form > label{
+    color: #fff;
+    font-size: 2.3rem;
+    justify-content: center;
+    display: flex;
+    margin: 60px auto 40px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .5s ease-in-out;
+}
+
+input{
+    width: 60%;
+    height: 20px;
+    background-color: #FFFAFA;
+    justify-content: center;
+    display: flex;
+    margin: 10px auto;
+    padding: 17px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}
+
+.icon-eye{
+    position: absolute;
+    top: inherit;
+    right: 60px;
+    transform: translateY(-45px);
+    opacity: .3;
+    cursor: pointer;
+    transition: .2s;
+}
+.icon-eye:hover{
+    opacity: .8;
+    transition: .2s;
+}
+
+.submit-btn{
+    width: 60%;
+    height: 40px;
+    margin: 10px auto;
+    justify-content: center;
+    display: block;
+    color: #F5F5F5;
+    background: #1E2E59;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    transition: .2s ease-in;
+    cursor: pointer;
+    padding: 5px;
+}
+
+.submit-btn-return{
+    width: 60%;
+    height: 40px;
+    margin: 10px auto;
+    justify-content: center;
+    display: block;
+    color: #1E2E59;
+    background: #F5F5F5;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 20px;
+    outline: none;
+    border: solid #1E2E59;
+    border-radius: 5px;
+    transition: .2s ease-in;
+    cursor: pointer;
+    padding: 6px;
+}
+
+.submit-btn:hover{
+    background-color: #3757AE;
+    color: snow;
+}
+
+.administrator{
+    height: 560px;
+    background: #F5F5F5;
+    border-radius: 60% / 8%;
+    transform: translateY(-180px);
+    transition: .8s ease-in-out;
+}
+
+.administrator label{
+    color: #1E2E59;
+    transform: scale(.6);
+}
+
+#chk:checked ~ .administrator{
+    transform: translateY(-580px);
+}
+
+#chk:checked ~ .administrator label{
+    padding-top: 20px;
+    padding-bottom: 0;
+    transform: scale(1);
+}
+
+#chk:checked ~ .client{
+    transform: scale(.6);
+}
+
+.administrator button.forgot_pswd{
+    display: block;
+    margin: 15px auto;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 1.1px;
+    line-height: 20px;
+    background-color: transparent;
+    font-size: 0.8em;
+    color: #1E2E59;
+    border: none;
+}
+.messaje-recuperar_paassword{
+    display: block;
+    font-size: 1rem;
+    text-align: center;
+    border:2px none black;
+    letter-spacing: 1px;
+    line-height: 25px;
+    color: #1E2E59;
+}
+/*LOADING ITEM*/
+
+/* Clase para ocultar el spinner inicialmente */
+.hidden {
+    display: none;
+  }
+  
+  /* Estilos del spinner circular */
+  .loading-spinner {
+    position: relative;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.1s ease-in-out; /* Agrega una transición de opacidad suave */
+  }
+
+  .loading-spinner.active {
+    opacity: 1; /* Muestra el spinner con una transición suave */
+  }
+  
+  .spinner {
+    width: 60%;
+    height: 40px;
+    margin: 10px auto;
+    justify-content: center;
+    display: block;
+    color: #F5F5F5;
+    background: #F5F5F5;
+    font-size: 1rem;
+    font-weight: bold;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    transition: .2s ease-in;
+    cursor: pointer;
+    padding: 5px;
+    /*------------*/
+    border: 6px solid #F5F5F5;
+    border-left-color: #4caf50;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }

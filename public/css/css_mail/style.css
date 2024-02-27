@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    top: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mail{
+    position: relative;
+    width: 100%;
+    height: 75vh;
+    background-color: #f6f6f6;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/*HEADER*/
+.mail .mail-header{
+    position: relative;
+    width: 100%;
+    background-image:linear-gradient(60deg, #29323c7a 0%, #48556371 100%), url("../../img/img_mail/bg3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    border: none;
+    outline: none;
+    padding-top: 5px;
+    padding-bottom: 55px;
+    border-radius: 3px 3px 0 0;
+}
+.mail-header>.logo{
+    display: block;
+    width: 250px;
+    margin: 10px auto;
+    object-fit: cover;
+}
+.mail-header>.wave{
+    position: absolute;
+    width: 100%;
+    top: -25px;
+    left: 0;
+    border: none;
+    outline: none;
+}
+/*TITULO*/
+.mail .mail-body{
+    position: relative;
+    width: 100%;
+    height: 70%;
+}
+.mail-body .asunto-mail{
+    display: block;
+    position: relative;
+    margin: 25px auto;
+    width: 95%;
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    text-align: center;
+    font-size: 0.9rem;
+    color: #fff;
+    border-radius: 5px;
+    padding: 2px;
+    z-index: 20;
+}
+.mail-body .cuerpo-mail{
+    position: absolute;
+    width: 93%;
+    top: 33px;
+    left: 3.5%;
+    text-align: justify;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0 0 10px 10px;
+    background-color: rgba(0, 0, 0, 0.473);
+    color: snow;
+    z-index: 10;
+}
+.mail-body .cuerpo-mail .mail-text{
+    font-weight: 300;
+    padding-top: 5px;
+}
+.mail-body .cuerpo-mail .mail-sub_title{
+    font-weight: 500;
+    padding-top: 15px;
+    border-bottom: 3px solid;
+}
+.mail>.mail-copyright{
+    position: absolute;
+    width: 100%;
+    padding: 7px;
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    color: snow;
+    font-weight: 300;
+    top: calc(65.6vh + 5vh);
+    left: 0;
+    border-radius: 3px;
+}
+.mail-body .btn-mail-link{
+    display: block;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    width: 150px;
+    background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+    color: #fff;
+    padding: 4px 15px;
+    outline: none;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 12px;
+    border: 1px solid transparent;
+    transition: .3s;
+}
+.mail-body .btn-mail-link:hover{
+    background-image: linear-gradient(60deg, #29323c75 0%rgba(72, 85, 99, 0.421)63 100%);
+    color: #fff;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    transition: .3s;
+}
+@media (width <= 800px){
+    .mail{
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        background-color: #f6f6f6;
+        border: 1px solid transparent;
+        border-radius: 3px;
+        font-family: 'Poppins', sans-serif;
+    }
+    .mail>.mail-copyright{
+        position: absolute;
+        width: 100%;
+        padding: 7px;
+        background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
+        color: snow;
+        font-weight: 300;
+        top: calc(95.5vh - 5vh);
+        left: 0;
+        border-radius: 3px;
+    }
+}

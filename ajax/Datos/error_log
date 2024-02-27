@@ -1,0 +1,45 @@
+[08-Nov-2023 16:18:30 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:18:30 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:18:51 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:18:51 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:20:01 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:20:01 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:24:59 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:24:59 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:25:40 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 16:25:40 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:01:48 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:01:48 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:02:05 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:02:05 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:02:32 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:02:32 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:02:49 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:02:49 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:03:37 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:03:37 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:06:47 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:06:47 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:07:08 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:07:08 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:07:51 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:07:51 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:08:25 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:08:25 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:09:00 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[08-Nov-2023 17:09:00 America/Mexico_City] PHP Warning:  Undefined variable $tipo in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 77
+[03-Feb-2024 13:44:18 America/Mexico_City] PHP Warning:  Undefined array key "data" in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 131
+[03-Feb-2024 14:43:27 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/AP/8Czk82yl0RW5DZDJwWEVNMD0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:43:27 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/AP/8Czk82yl0RW5DZDJwWEVNMD0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:34 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:34 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:50 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:54 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:55 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:56 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:56 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:57 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:57 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[03-Feb-2024 14:44:57 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/1kQWEKaY/PdDVFBkdEtaNi8zUT0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[08-Feb-2024 16:50:26 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/BxLJLmI/px9sUzYwT2h1eFIyZz0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136
+[08-Feb-2024 16:50:27 America/Mexico_City] PHP Warning:  file_put_contents(../../files/TempQr/BxLJLmI/px9sUzYwT2h1eFIyZz0=.jpg): Failed to open stream: No such file or directory in /home1/greentec/public_html/Fraccionamiento/ajax/Datos/ajax.datos.php on line 136

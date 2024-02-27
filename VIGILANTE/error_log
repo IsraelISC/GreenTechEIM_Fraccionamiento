@@ -1,0 +1,20 @@
+[13-Nov-2023 16:58:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '../vistas/CabezaPies/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/greentec/public_html/Fraccionamiento/vistas/VIGILANTE/view.qr_reader.php:2
+Stack trace:
+#0 /home1/greentec/public_html/Fraccionamiento/VIGILANTE/scanner.php(8): require()
+#1 {main}
+  thrown in /home1/greentec/public_html/Fraccionamiento/vistas/VIGILANTE/view.qr_reader.php on line 2
+[13-Nov-2023 16:58:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '../vistas/CabezaPies/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/greentec/public_html/Fraccionamiento/vistas/VIGILANTE/view.qr_reader.php:2
+Stack trace:
+#0 /home1/greentec/public_html/Fraccionamiento/VIGILANTE/scanner.php(8): require()
+#1 {main}
+  thrown in /home1/greentec/public_html/Fraccionamiento/vistas/VIGILANTE/view.qr_reader.php on line 2
+[13-Nov-2023 16:58:41 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '../vistas/CabezaPies/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/greentec/public_html/Fraccionamiento/vistas/VIGILANTE/view.qr_reader.php:2
+Stack trace:
+#0 /home1/greentec/public_html/Fraccionamiento/VIGILANTE/scanner.php(8): require()
+#1 {main}
+  thrown in /home1/greentec/public_html/Fraccionamiento/vistas/VIGILANTE/view.qr_reader.php on line 2
+[13-Nov-2023 16:58:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required '../vistas/CabezaPies/header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/greentec/public_html/Fraccionamiento/vistas/VIGILANTE/view.qr_reader.php:2
+Stack trace:
+#0 /home1/greentec/public_html/Fraccionamiento/VIGILANTE/scanner.php(8): require()
+#1 {main}
+  thrown in /home1/greentec/public_html/Fraccionamiento/vistas/VIGILANTE/view.qr_reader.php on line 2
