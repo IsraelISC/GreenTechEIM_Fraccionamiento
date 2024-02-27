@@ -100,7 +100,7 @@
                       <div class="group__notify">
                         <img src="../files/FotoPerfil/groups.jpg" class="img-circle img-panel-short__notify"
                           alt="User Image">
-                        <h4 class="title__group">GRUPO MANTENIMIENTO</h4>
+                        <h4 class="title__group">GRUPO Hs</h4>
                       </div>
 
                       <h4 class="title">ASUNTO</h4>
